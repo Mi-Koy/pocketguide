@@ -1,2 +1,2 @@
-# pocketguide
+# Gitpocket
 my first repository in GitHub
